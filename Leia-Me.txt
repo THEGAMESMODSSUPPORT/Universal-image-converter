@@ -1,0 +1,10 @@
+Este e um programa desenvolvido so por uma pessoa entãopor favor não tente fazer engenharia reversa.
+
+
+
+Notas de versão
+
+1.0.02:
+Linguagem: Python
+<Nesta Versão e possivel o usuario Converter os seguintes formatos de imagem [.dds.tga.bmp.jpg.jpeg..tiff.avif.jfif] Para .png>
+Oque quero para a proxima versão/versões, Ter a conversão mais rapida, Poder escolher o formato de imagem que vc quer salvar, poder arras  imagens ou pastas para conversão sem precisar selecionar
